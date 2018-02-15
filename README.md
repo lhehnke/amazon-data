@@ -7,7 +7,7 @@ Function for scraping Amazon product URLs and IDs (ASIN) from best sellers list
 
 ## scraper_amazon_product_reviews.R
 
-Function for scraping Amazon customer reviews from specified review page
+Function for scraping Amazon customer reviews from specified review page (with URL as input)
 
 ## scraping_amazon_customer_reviews.R
 
